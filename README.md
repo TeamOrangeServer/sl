@@ -1,6 +1,7 @@
 このリポジトリはbuild提供用です。(いかなる不利益が発生しても責任は取りかねます。)
 =======================================
 
+## [Download](https://github.com/sousuke0422/sl/releases/tag/rv0-1 "Download")
 
 SL(1): Cure your bad habit of mistyping
 =======================================
