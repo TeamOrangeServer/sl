@@ -3,6 +3,8 @@
 
 ## [Download](https://github.com/sousuke0422/sl/releases/tag/rv0-1 "Download")
 
+# 現在、windows版はmsys2が前提です。簡単なのはlinux版をwslで動かすことです。
+
 SL(1): Cure your bad habit of mistyping
 =======================================
 
